@@ -1,5 +1,5 @@
 import requests,json,wget
-
+#TEST
 def palupila(kode,urut):
     try:
         url = 'http://api.areltiyan.xyz/tiktokwm?link='+kode
